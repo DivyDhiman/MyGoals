@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">My Goals</string>
+    <string name="youraction">Your Action Tracker</string>
+    <string name="actiondetail">Massively change your life in 30 days with this awesome and simple to use action tracking system</string>
+    <string name="actionlearnmore">Your Action Tracking App has one simple objective To daily keep you on track with the
+    actions you need to take to guarantee you will achieve your goals, whatever they may be. If you are seriously passionate
+    about achieving your goals, then measuring your daily actions performed against a predetermined monthly target of actions
+    is vital. This is a very simple, quick and easy to use system to enable you to do that. It provides you with feedback everyday on whether
+    you are on track, ahead or behind your targets so if necessary you can take corrective action tomorrow to get you back on track
+    . The system works brilliantly and a warning-it can be addictive. I have used it for over 30 years in my business career
+    and private life with awesome results</string>
+    <string name="inspiration">Inspiration</string>
+    <string name="list1">It is rarely a lack of knowledge that holds us back from success, but rather a lack of the actual
+    doing. The execution of the actions are the real causes of failure.</string>
+    <string name="listath1">― Rod Cautilous</string>
+    <string name="list2">Successful people have formed the habit of doing things that failures don\'t like doing and won\'t do.</string>
+    <string name="listath2">― Paul J Meyer</string>
+    <string name="list3">For any business decision, there are only two choices-action or inaction. Action is the foundational
+    key to all success</string>
+    <string name="listath3">― Pablo Picasso</string>
+    <string name="list4">Do you want to know who you are? Don\'t ask-act! Action will delineate and define you.</string>
+    <string name="listath4">― Thomas Jefferson</string>
+    <string name="list5">Action may not always bring happiness; But there is no happiness without action</string>
+    <string name="listath5">― Benjamin Disraeli</string>
+    <string name="list6">A London University study revels that habits are formed after 66 days of repeated actions. When
+    it is obvious that the goals cannot be reached, don\'t adjust the goals...adjust the action steps.</string>
+    <string name="listath6">― Tony Robbins</string>
+    <string name="list7">You sow a action, you reap a habit. You sow a habit, you reap a character. You sow a character, You
+    reap a destiny.</string>
+    <string name="listath7">― Ralph Waldo Emerson</string>
+    <string name="next">Next</string>
+    <string name="addgroup">Enter group name</string>
+    <string name="groups">Groups</string>
+    <string name="add">Add</string>
+    <string name="groupadd">Group Add</string>
+    <string name="nonameenter">Please enter group name</string>
+    <string name="start">Start</string>
+    <string name="goal">Goals</string>
+    <string name="creategoal">Create Goal</string>
+    <string name="currentmonth">Current Month</string>
+    <string name="goalhistory">Goal History</string>
+    <string name="goalname">Goal Name:  </string>
+    <string name="entergoal">Enter Goal Name</string>
+    <string name="target">Target/Day:  </string>
+    <string name="entertarget">Enter Target</string>
+    <string name="selectnonworking">Select Non Working Days</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="errorgoalname">Please enter goal name</string>
+    <string name="errorgoaltarget">Please select target days</string>
+    <string name="sun">Sunday</string>
+    <string name="mon">Monday</string>
+    <string name="tue">Tuesday</string>
+    <string name="wed">Wednesday</string>
+    <string name="thu">Thursday</string>
+    <string name="fri">Friday</string>
+    <string name="sat">Saturday</string>
+    <string name="mygoal">My Goals</string>
+    <string name="date_view">Date</string>
+    <string name="target_view">Target</string>
+    <string name="actual_view">Actual</string>
+    <string name="plusom">+ or -</string>
+    <string name="total">Total</string>
+
+</resources>

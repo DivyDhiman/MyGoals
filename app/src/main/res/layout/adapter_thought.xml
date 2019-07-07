@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/margin_13"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text_listdata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/margin_8"
+        android:textColor="@color/off_black"
+        android:textSize="@dimen/margin_13" />
+
+    <TextView
+        android:id="@+id/text_listath"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_margin="@dimen/margin_5"
+        android:textColor="@color/off_black"
+        android:textSize="@dimen/margin_13" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.02dp"
+        android:background="@color/off_black" />
+</LinearLayout>

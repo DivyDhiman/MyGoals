@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgmain"
+    android:orientation="vertical"
+    android:weightSum="1.0">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.01" />
+
+    <TextView
+        android:id="@+id/text_actiondetail"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.06"
+        android:gravity="center"
+        android:text="@string/youraction"
+        android:textColor="@color/black"
+        android:textSize="@dimen/margin_18" />
+
+    <TextView
+        android:id="@+id/text_actionlearnmore"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.13"
+        android:gravity="center"
+        android:text="@string/actiondetail"
+        android:textColor="@color/off_black"
+        android:textSize="@dimen/margin_15" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.18"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="0.2dp"
+            android:layout_height="0.4dp"
+            android:layout_gravity="center"
+            android:layout_weight="0.36"
+            android:background="@color/black" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.31"
+            android:background="@drawable/actiontracker" />
+
+        <View
+            android:layout_width="0.2dp"
+            android:layout_height="0.4dp"
+            android:layout_gravity="center"
+            android:layout_weight="0.36"
+            android:background="@color/black" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.03" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_marginEnd="@dimen/margin_50"
+        android:layout_marginStart="@dimen/margin_50"
+        android:layout_weight="0.4"
+        android:background="@drawable/cv" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.02" />
+
+    <ImageView
+        android:id="@+id/click_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="end"
+        android:layout_marginRight="@dimen/margin_15"
+        android:layout_weight="0.05"
+        android:background="@android:drawable/ic_menu_info_details"
+        android:backgroundTint="@color/blue" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.02" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.003"
+        android:background="@color/black" />
+
+    <Button
+        android:id="@+id/click_next"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.097"
+        android:background="@color/green"
+        android:text="@string/start"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:textSize="@dimen/margin_15" />
+</LinearLayout>
